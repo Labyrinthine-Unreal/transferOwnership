@@ -2,7 +2,7 @@
 
 
 
-<h3> This Repo is for Openzeppellin to review the TaurosDAO contract for vulnerabilities in the source code.
+<h3> This Repo is for Openzeppelin to review the TaurosDAO contract for vulnerabilities in the source code.
 
 <br>
 <h2>OpenSea ticket Submission<h2>
